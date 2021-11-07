@@ -1,0 +1,9 @@
+.highlight {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: hsl(195deg, 20%, 86%);
+  height: 40%;
+  isolation: isolate;
+}
+
